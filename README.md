@@ -43,5 +43,4 @@ The dataset is sourced from Kaggle: [IMDB Movie Reviews](https://www.kaggle.com/
    ```
 2. Run the notebook to preprocess data and train the model.
 
-## Results
-After training, the model achieves a test accuracy of approximately **100%**.
+
